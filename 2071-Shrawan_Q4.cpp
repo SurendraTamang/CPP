@@ -1,5 +1,5 @@
-// Write a program to calculate and display the cube of integer, float and double
-// number using function overloading (passing single argument to the function).
+/* Write a program to calculate and display the cube of integer, float and double
+ number using function overloading (passing single argument to the function).*/
 
 #include <iostream>
 using namespace std;
